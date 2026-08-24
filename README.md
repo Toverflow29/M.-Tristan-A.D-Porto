@@ -10,8 +10,8 @@ Siswa Kelas 11 RPL di SMK 17 Agustus 1945 Surabaya | Wannabe a Web Developer and
 
 ---
 
-### 🚀 My tools
-![My laptop]
+### 🚀 My Tools For Programing
+![My laptop](https://github.com/Toverflow29/M.-Tristan-A.D-Porto/blob/main/images%20(2).jfif)
 ---
 
 ### 📫 Contact
