@@ -10,8 +10,14 @@ Siswa Kelas 11 RPL di SMK 17 Agustus 1945 Surabaya | Wannabe a Web Developer and
 
 ---
 
-### 🚀 My Tools For Programing
-![My laptop](https://github.com/Toverflow29/M.-Tristan-A.D-Porto/blob/main/images%20(2).jfif)
+### 🚀 My Tools For Programing and Spesification
+* **Laptop:** Lenovo Thinkpad T495
+  
+*  **Processor:** AMD Ryzen 5 PRO 3500U (4 Core / 8 Thread)
+  
+*  **GPU:** AMD Radeon Vega 8 Graphics
+  
+*  **Ram** 16 GB DDR 4
 
 ---
 
