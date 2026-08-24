@@ -10,14 +10,8 @@ Siswa Kelas 11 RPL di SMK 17 Agustus 1945 Surabaya | Wannabe a Web Developer and
 
 ---
 
-### 🚀 Featured Projects
-* **[Nama Proyek 1 - Contoh: Web Kasir]** 
-  Aplikasi transaksi & manajemen stok barang.
-  `PHP` `Laravel` `MySQL` | [Code](link-repo-1)
-
-* **[Nama Proyek 2 - Contoh: Web Absensi]** 
-  Sistem pencatatan absensi siswa berbasis web.
-  `HTML` `Tailwind` `JS` | [Code](link-repo-2)
+### 🚀 My tools
+![My laptop](https://www.google.com/imgres?q=thinkpad%20t495&imgurl=https%3A%2F%2Ffiles.refurbed.com%2Fpi%2Flenovo-tp-t495-ryzen-3500u-1597643522.jpg%3Ft%3Dresize%26h%3D630%26w%3D1200&imgrefurl=https%3A%2F%2Fwww.refurbed.se%2Fen-se%2Fp%2Flenovo-tp-t495-ryzen-3500u%2F&docid=xfO4h0OqEQ4u0M&tbnid=_mnl-7yCANOmwM&vet=12ahUKEwift868prmWAxURiuEIHbhTCqUQnPAOegQIbxAA..i&w=789&h=630&hcb=2&itg=1&ved=2ahUKEwift868prmWAxURiuEIHbhTCqUQnPAOegQIbxAA))
 
 ---
 
